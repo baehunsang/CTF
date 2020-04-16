@@ -1,0 +1,5 @@
+http://kuics.us.to/wargame/list/10/
+https://dreamhack.io/learn/2/11#27
+
+6. Environ pointer
+1. one_shot gadget
